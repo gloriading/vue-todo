@@ -1,4 +1,10 @@
-# todo
+# TODO LIST WITH VUE.JS
+### Learning from Traversy Media 👍🏼
+### Techonologies: VUE.JS VUE-ROUTER CSS
+
+
+## ![Alt text](./src/assets/vue-todo.png?raw=true "Modern Portfolio")
+
 
 ## Project setup
 ```
